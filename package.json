@@ -1,5 +1,5 @@
 {
-  "name": "ushell-module-ubuntu-pbcopy",
+  "name": "@feizheng/ushell-module-ubuntu-pbcopy",
   "version": "1.0.0",
   "description": "Pbcopy for ubuntu.",
   "main": "index.sh",
@@ -13,12 +13,12 @@
     "shell",
     "ushell-module-ubuntu-pbcopy"
   ],
-  "authors": [
-    "feizheng <1290657123@qq.com>"
-  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-ubuntu-pbcopy/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-ubuntu-pbcopy"
+  "homepage": "https://github.com/afeiship/ushell-module-ubuntu-pbcopy",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
