@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-ubuntu-pbcopy",
+  "name": "@jswork/ushell-module-ubuntu-pbcopy",
   "version": "1.0.0",
   "description": "Pbcopy for ubuntu.",
   "main": "index.sh",
@@ -9,9 +9,11 @@
   },
   "keywords": [
     "ushell",
-    "unix",
-    "shell",
-    "ushell-module-ubuntu-pbcopy"
+    "ubuntu",
+    "pbcopy",
+    "pbpaste",
+    "mac",
+    "macos"
   ],
   "license": "MIT",
   "bugs": {

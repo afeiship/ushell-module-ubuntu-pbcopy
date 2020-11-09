@@ -3,5 +3,5 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-ubuntu-pbcopy
+npm i -S @jswork/ushell-module-ubuntu-pbcopy
 ```
